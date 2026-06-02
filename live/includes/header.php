@@ -9,6 +9,6 @@
   <body>
     <div class="page">
       <header>
-        <a href="../index.php"><img src="img/logo.png" alt="Mountain Art Supplies" height="90" /></a>
+        <a href="../index.php"><img src="../img/logo.png" alt="Mountain Art Supplies" height="90" /></a>
       </header>
       <section>

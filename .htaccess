@@ -1,0 +1,3 @@
+ErrorDocument 404 /10-errors-jaehyoung20222338/live/page-not-found.php
+
+ErrorDocument 500 /10-errors-jaehyoung20222338/live/error.php

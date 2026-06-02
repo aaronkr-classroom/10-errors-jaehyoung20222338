@@ -1,5 +1,7 @@
-<?php $list = false; ?>
+<?php $list = ['pencil', 'pen', 'notebook']; ?>
 <h1>Basket</h1>
+<ul>
 <?php foreach ($list as $item) { ?>
-    Item: <?= $item ?><br>
+    <li>Item: <?= $item ?><li>
 <?php } ?>
+</ul>
